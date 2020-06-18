@@ -6,7 +6,7 @@ function App() {
   
   return (
     <main>
-      <h1>Jorge ManzurI</h1>
+      <h1>Jorge Manzur</h1>
       <h2>
         Deployed with{' '}
         <a
